@@ -3,6 +3,8 @@
 
 ## Description
 
+This project is a PWA text editor designed for you to use on a website. This website will allow you to write down text and it will be saved into indexDB on your local machine. This also has a service worker that will allow you to still work with this PWA offline. It also has an install button, so that you may install this web app onto your machine and use it from there. 
+
 ## Table of Contents
 
 * [Technologies](#technologies)
@@ -21,6 +23,8 @@
 | npm | https://www.npmjs.com/ |
 
 ## Installation
+
+After cloning the repository run an npm install in the root directory. This will install all the node modules needed to run this web app in the root directory and the client directory. From there type in npm start to build the web app and run the server.
 
 ## Usage
 
